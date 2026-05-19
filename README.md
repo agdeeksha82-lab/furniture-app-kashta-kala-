@@ -3,7 +3,7 @@ An Android furniture shopping app developed using Kotlin and XML that allows use
 <img width="527" height="832" alt="Screenshot 2026-05-18 152308" src="https://github.com/user-attachments/assets/49ec8445-ea52-43f8-8466-8de8b8c92fe3" />
 <img width="1920" height="1080" alt="Screenshot 2026-05-18 152121" src="https://github.com/user-attachments/assets/65e94354-11e0-4738-80ae-d966e3a53f9b" />
 
-Kashta Kala is a modern furniture shopping mobile application designed to help users explore, view, and manage furniture products with a clean and user-friendly interface. The app focuses on providing a smooth browsing experience for different furniture categories such as sofas, chairs, tables, beds, and home décor items.
+Kashta Kala is a modern furniture shopping mobile application designed to showcase crafts mans materials and  to help users explore, view, and manage furniture products with a clean and user-friendly interface. The app focuses on providing a smooth browsing experience for different furniture categories such as sofas, chairs, tables, beds, and home décor items.
 
 ## Features
 
@@ -31,7 +31,7 @@ Traditional furniture shopping can be time-consuming and inconvenient. Kashta Ka
 
 ## Project Objective
 
-The main objective of this project is to create an easy-to-use furniture application with an attractive design that improves user experience and simplifies furniture browsing and selection.
+The main objective of this project is to create an easy-to-use furniture application with an attractive design that improves user experience and simplifies furniture browsing and selection.Kashta Kala addresses these issues by developing an Android-based application that enables product display with pricing, material dimension calculation, and online purchasing features. The application improves accessibility, simplifies furniture planning, and supports the digital growth of traditional wooden craft businesses.
 
 ## Folder Structure
 
