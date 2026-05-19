@@ -35,8 +35,51 @@ The main objective of this project is to create an easy-to-use furniture applica
 
 ## Folder Structure
 
-```bash
-app/
-├── java/
-├── res/
-├── manifests/
+KashtaKala/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/kashtakala/
+│   │   │   │   ├── activities/
+│   │   │   │   │   ├── MainActivity.kt
+│   │   │   │   │   ├── LoginActivity.kt
+│   │   │   │   │   ├── RegisterActivity.kt
+│   │   │   │   │   ├── ProductDetailsActivity.kt
+│   │   │   │   │   ├── CartActivity.kt
+│   │   │   │   │   └── PaymentActivity.kt
+│   │   │   │   │
+│   │   │   │   ├── adapters/
+│   │   │   │   │   └── ProductAdapter.kt
+│   │   │   │   │
+│   │   │   │   ├── models/
+│   │   │   │   │   ├── Product.kt
+│   │   │   │   │   ├── User.kt
+│   │   │   │   │   └── Cart.kt
+│   │   │   │   │
+│   │   │   │   ├── database/
+│   │   │   │   │   └── DatabaseHelper.kt
+│   │   │   │   │
+│   │   │   │   ├── utils/
+│   │   │   │   │   └── DimensionCalculator.kt
+│   │   │   │   │
+│   │   │   │   └── firebase/
+│   │   │   │       └── FirebaseManager.kt
+│   │   │   │
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   ├── drawable/
+│   │   │   │   ├── values/
+│   │   │   │   └── mipmap/
+│   │   │   │
+│   │   │   └── AndroidManifest.xml
+│   │   │
+│   │   └── test/
+│   │
+│   ├── build.gradle
+│   └── proguard-rules.pro
+│
+├── gradle/
+├── build.gradle
+├── settings.gradle
+└── README.md
