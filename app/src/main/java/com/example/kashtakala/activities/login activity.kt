@@ -1,0 +1,1 @@
+// Duplicate of LoginActivity.kt

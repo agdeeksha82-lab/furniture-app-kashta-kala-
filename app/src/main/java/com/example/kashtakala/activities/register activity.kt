@@ -1,0 +1,1 @@
+// Duplicate of RegisterActivity.kt

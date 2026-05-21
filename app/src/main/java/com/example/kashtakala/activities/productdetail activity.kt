@@ -1,0 +1,1 @@
+// Duplicate of ProductDetailActivity.kt

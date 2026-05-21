@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kashta kala</string>
+    <string name="checkout">Checkout</string>
+    <string name="select_payment_method">Select Payment Method</string>
+    <string name="google_pay_upi">Google Pay / UPI</string>
+    <string name="credit_debit_card">Credit / Debit Card</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
+    <string name="confirm_order">Confirm Order</string>
+</resources>
